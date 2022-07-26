@@ -12,6 +12,7 @@
 		AEDF5B5D2890135B000C227C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEDF5B5C2890135B000C227C /* Assets.xcassets */; };
 		AEDF5B602890135B000C227C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEDF5B5F2890135B000C227C /* Preview Assets.xcassets */; };
 		AEDF5B8528906E43000C227C /* AssignmentList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDF5B8428906E43000C227C /* AssignmentList.swift */; };
+		AEDF5B89289074F3000C227C /* AddAssignmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDF5B88289074F3000C227C /* AddAssignmentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		AEDF5B5C2890135B000C227C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AEDF5B5F2890135B000C227C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AEDF5B8428906E43000C227C /* AssignmentList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignmentList.swift; sourceTree = "<group>"; };
+		AEDF5B88289074F3000C227C /* AddAssignmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddAssignmentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				AEDF5B5828901355000C227C /* Assignment_NotebookApp.swift */,
 				AEDF5B5A28901355000C227C /* ContentView.swift */,
+				AEDF5B88289074F3000C227C /* AddAssignmentView.swift */,
 				AEDF5B8428906E43000C227C /* AssignmentList.swift */,
 				AEDF5B5C2890135B000C227C /* Assets.xcassets */,
 				AEDF5B5E2890135B000C227C /* Preview Content */,
@@ -143,6 +146,7 @@
 				AEDF5B8528906E43000C227C /* AssignmentList.swift in Sources */,
 				AEDF5B5B28901355000C227C /* ContentView.swift in Sources */,
 				AEDF5B5928901355000C227C /* Assignment_NotebookApp.swift in Sources */,
+				AEDF5B89289074F3000C227C /* AddAssignmentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
